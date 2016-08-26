@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Planets</string>
+    <!--Planets Names-->
+    <array name="planet_names">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Ceres</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </array>
+    
+    <!--Planets Dependes-->
+    <array name="planet_descriptions">
+        <item>Очень жаркая планета</item>
+        <item>Планета любви</item>
+        <item>Наша Земля</item>
+        <item>Жизне пигодная планета</item>
+        <item>Прохладно дальше уже</item>
+        <item>Колечко колечко кольцо</item>
+        <item>Седьмая планета</item>
+        <item>Восьмая планета</item>
+        <item>Последняя планета</item>
+    </array>]
+
+    <!--planets Images id-->
+    <integer-array name="planet_images">
+        <item>@drawable/mercury</item>
+        <item>@drawable/venus</item>
+        <item>@drawable/earth</item>
+        <item>@drawable/mars</item>
+        <item>@drawable/ceres</item>
+        <item>@drawable/jupiter</item>
+        <item>@drawable/saturn</item>
+        <item>@drawable/uranus</item>
+        <item>@drawable/neptune</item>
+    </integer-array>
+</resources>
